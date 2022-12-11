@@ -18,6 +18,8 @@ However, data became much more critical with the creation of computers.  The pri
 With the emergence of the Internet, the role of computers as data handling devices increased.  If you think about it, we now use computers more and more for data processing and communication, rather than actual computations. When we write an e-mail to a friend or search for some information on the Internet - we are essentially creating, storing, transmitting, and manipulating data.
 > Can you remember the last time you have used computers to actually compute something? 
 
+>BTW,Can I study Date Science on Github?
+
 ## What is Data Science?
 
 In [Wikipedia](https://en.wikipedia.org/wiki/Data_science), **Data Science** is defined as *a scientific field that uses scientific methods to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains*. 
